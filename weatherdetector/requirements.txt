@@ -11,3 +11,6 @@ sqlparse==0.5.3
 tzdata==2025.2
 virtualenv==20.31.2
 virtualenvwrapper-win==1.2.7
+Django
+gunicorn
+
